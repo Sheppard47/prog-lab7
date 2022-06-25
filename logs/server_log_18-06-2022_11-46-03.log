@@ -1,0 +1,17 @@
+INFO  | 18-06-2022 11:46:03 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 18-06-2022 11:46:03 | utility.CollectionManager - Коллекция загружена.
+INFO  | 18-06-2022 11:46:03 | server.Server - Запуск сервера...
+INFO  | 18-06-2022 11:46:03 | server.Server - Сервер запущен.
+INFO  | 18-06-2022 11:46:03 | server.Server - Разрешение на новое соединение получено.
+INFO  | 18-06-2022 11:46:03 | server.Server - Прослушивание порта '1111'...
+INFO  | 18-06-2022 11:46:09 | server.Server - Соединение с клиентом установлено.
+INFO  | 18-06-2022 11:46:09 | server.Server - Разрешение на новое соединение получено.
+INFO  | 18-06-2022 11:46:09 | server.Server - Прослушивание порта '1111'...
+INFO  | 18-06-2022 11:46:20 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME.
+INFO  | 18-06-2022 11:46:20 | utility.DatabaseUserManager - Выполнен запрос INSERT_USER.
+INFO  | 18-06-2022 11:46:20 | utility.ConnectionHandler - Запрос 'register' обработан.
+INFO  | 18-06-2022 11:46:23 | utility.ConnectionHandler - Запрос 'show' обработан.
+INFO  | 18-06-2022 11:46:30 | utility.ConnectionHandler - Запрос 'help' обработан.
+WARN  | 18-06-2022 12:10:12 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 18-06-2022 12:10:12 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 18-06-2022 12:10:12 | server.Server - Разрыв соединения зарегистрирован.

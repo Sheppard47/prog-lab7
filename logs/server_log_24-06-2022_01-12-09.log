@@ -1,0 +1,21 @@
+INFO  | 24-06-2022 01:12:09 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 24-06-2022 01:12:09 | utility.CollectionManager - Коллекция загружена.
+INFO  | 24-06-2022 01:12:09 | server.Server - Запуск сервера...
+INFO  | 24-06-2022 01:12:09 | server.Server - Сервер запущен.
+INFO  | 24-06-2022 01:12:09 | server.Server - Разрешение на новое соединение получено.
+INFO  | 24-06-2022 01:12:09 | server.Server - Прослушивание порта '1111'...
+INFO  | 24-06-2022 01:12:11 | server.Server - Соединение с клиентом установлено.
+INFO  | 24-06-2022 01:12:11 | server.Server - Разрешение на новое соединение получено.
+INFO  | 24-06-2022 01:12:11 | server.Server - Прослушивание порта '1111'...
+WARN  | 24-06-2022 01:12:38 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 24-06-2022 01:12:38 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 24-06-2022 01:12:38 | server.Server - Разрыв соединения зарегистрирован.
+INFO  | 24-06-2022 01:12:41 | server.Server - Соединение с клиентом установлено.
+INFO  | 24-06-2022 01:12:41 | server.Server - Разрешение на новое соединение получено.
+INFO  | 24-06-2022 01:12:41 | server.Server - Прослушивание порта '1111'...
+INFO  | 24-06-2022 01:12:53 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME_AND_PASSWORD.
+INFO  | 24-06-2022 01:12:53 | utility.ConnectionHandler - Запрос 'login' обработан.
+INFO  | 24-06-2022 01:12:54 | utility.ConnectionHandler - Запрос 'show' обработан.
+ERROR | 24-06-2022 01:13:23 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 24-06-2022 01:13:23 | utility.DatabaseCollectionManager - Произошла ошибка при выполнении группы запросов на добавление нового объекта!
+INFO  | 24-06-2022 01:13:23 | utility.ConnectionHandler - Запрос 'add' обработан.

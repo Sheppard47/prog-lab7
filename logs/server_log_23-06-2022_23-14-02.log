@@ -1,0 +1,25 @@
+INFO  | 23-06-2022 23:14:02 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 23-06-2022 23:14:03 | utility.CollectionManager - Коллекция загружена.
+INFO  | 23-06-2022 23:14:03 | server.Server - Запуск сервера...
+INFO  | 23-06-2022 23:14:03 | server.Server - Сервер запущен.
+INFO  | 23-06-2022 23:14:03 | server.Server - Разрешение на новое соединение получено.
+INFO  | 23-06-2022 23:14:03 | server.Server - Прослушивание порта '1111'...
+INFO  | 23-06-2022 23:14:13 | server.Server - Соединение с клиентом установлено.
+INFO  | 23-06-2022 23:14:13 | server.Server - Разрешение на новое соединение получено.
+INFO  | 23-06-2022 23:14:13 | server.Server - Прослушивание порта '1111'...
+INFO  | 23-06-2022 23:14:23 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME_AND_PASSWORD.
+INFO  | 23-06-2022 23:14:23 | utility.ConnectionHandler - Запрос 'login' обработан.
+INFO  | 23-06-2022 23:14:26 | utility.ConnectionHandler - Запрос 'show' обработан.
+ERROR | 23-06-2022 23:14:54 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 23-06-2022 23:14:54 | utility.DatabaseCollectionManager - Произошла ошибка при выполнении группы запросов на добавление нового объекта!
+INFO  | 23-06-2022 23:14:54 | utility.ConnectionHandler - Запрос 'add' обработан.
+INFO  | 23-06-2022 23:17:30 | utility.ConnectionHandler - Запрос 'help' обработан.
+INFO  | 23-06-2022 23:17:40 | utility.ConnectionHandler - Запрос 'show' обработан.
+ERROR | 23-06-2022 23:18:09 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 23-06-2022 23:18:09 | utility.DatabaseCollectionManager - Произошла ошибка при выполнении группы запросов на добавление нового объекта!
+INFO  | 23-06-2022 23:18:09 | utility.ConnectionHandler - Запрос 'add' обработан.
+INFO  | 23-06-2022 23:21:55 | utility.ConnectionHandler - Запрос 'show' обработан.
+INFO  | 23-06-2022 23:21:59 | utility.ConnectionHandler - Запрос 'help' обработан.
+WARN  | 23-06-2022 23:22:23 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 23-06-2022 23:22:23 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 23-06-2022 23:22:23 | server.Server - Разрыв соединения зарегистрирован.

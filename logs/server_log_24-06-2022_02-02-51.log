@@ -1,0 +1,20 @@
+INFO  | 24-06-2022 02:02:51 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 24-06-2022 02:02:51 | utility.CollectionManager - Коллекция загружена.
+INFO  | 24-06-2022 02:02:51 | server.Server - Запуск сервера...
+INFO  | 24-06-2022 02:02:51 | server.Server - Сервер запущен.
+INFO  | 24-06-2022 02:02:51 | server.Server - Разрешение на новое соединение получено.
+INFO  | 24-06-2022 02:02:51 | server.Server - Прослушивание порта '1111'...
+INFO  | 24-06-2022 02:02:57 | server.Server - Соединение с клиентом установлено.
+INFO  | 24-06-2022 02:02:57 | server.Server - Разрешение на новое соединение получено.
+INFO  | 24-06-2022 02:02:57 | server.Server - Прослушивание порта '1111'...
+INFO  | 24-06-2022 02:03:07 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME_AND_PASSWORD.
+INFO  | 24-06-2022 02:03:07 | utility.ConnectionHandler - Запрос 'login' обработан.
+INFO  | 24-06-2022 02:03:17 | utility.ConnectionHandler - Запрос 'help' обработан.
+INFO  | 24-06-2022 02:03:20 | utility.ConnectionHandler - Запрос 'show' обработан.
+ERROR | 24-06-2022 02:03:47 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 24-06-2022 02:03:47 | utility.DatabaseCollectionManager - An error occurred while executing a group of requests to add a new object!
+INFO  | 24-06-2022 02:03:47 | utility.ConnectionHandler - Запрос 'add' обработан.
+INFO  | 24-06-2022 02:04:02 | utility.ConnectionHandler - Запрос 'clear' обработан.
+ERROR | 24-06-2022 02:05:09 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 24-06-2022 02:05:09 | utility.DatabaseCollectionManager - An error occurred while executing a group of requests to add a new object!
+INFO  | 24-06-2022 02:05:09 | utility.ConnectionHandler - Запрос 'add' обработан.

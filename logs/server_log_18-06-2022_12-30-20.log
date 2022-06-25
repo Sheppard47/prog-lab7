@@ -1,0 +1,25 @@
+ERROR | 18-06-2022 12:30:21 | utility.DatabaseHandler - Произошла ошибка при подключении к базе данных!
+ERROR | 18-06-2022 12:30:21 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 18-06-2022 12:30:21 | utility.CollectionManager - Коллекция не может быть загружена!
+INFO  | 18-06-2022 12:30:21 | server.Server - Запуск сервера...
+INFO  | 18-06-2022 12:30:21 | server.Server - Сервер запущен.
+INFO  | 18-06-2022 12:30:21 | server.Server - Разрешение на новое соединение получено.
+INFO  | 18-06-2022 12:30:21 | server.Server - Прослушивание порта '1111'...
+INFO  | 18-06-2022 12:30:43 | server.Server - Соединение с клиентом установлено.
+INFO  | 18-06-2022 12:30:43 | server.Server - Разрешение на новое соединение получено.
+INFO  | 18-06-2022 12:30:43 | server.Server - Прослушивание порта '1111'...
+ERROR | 18-06-2022 12:31:08 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 18-06-2022 12:31:08 | utility.DatabaseUserManager - Произошла ошибка при выполнении запроса SELECT_USER_BY_USERNAME_AND_PASSWORD!
+INFO  | 18-06-2022 12:31:08 | utility.ConnectionHandler - Запрос 'login' обработан.
+ERROR | 18-06-2022 13:32:12 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 18-06-2022 13:32:12 | utility.DatabaseUserManager - Произошла ошибка при выполнении запроса SELECT_USER_BY_USERNAME_AND_PASSWORD!
+INFO  | 18-06-2022 13:32:12 | utility.ConnectionHandler - Запрос 'login' обработан.
+ERROR | 18-06-2022 13:32:25 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 18-06-2022 13:32:25 | utility.DatabaseUserManager - Произошла ошибка при выполнении запроса SELECT_USER_BY_USERNAME_AND_PASSWORD!
+INFO  | 18-06-2022 13:32:25 | utility.ConnectionHandler - Запрос 'login' обработан.
+WARN  | 18-06-2022 13:32:36 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 18-06-2022 13:32:36 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 18-06-2022 13:32:36 | server.Server - Разрыв соединения зарегистрирован.
+INFO  | 18-06-2022 13:32:38 | server.Server - Соединение с клиентом установлено.
+INFO  | 18-06-2022 13:32:38 | server.Server - Разрешение на новое соединение получено.
+INFO  | 18-06-2022 13:32:38 | server.Server - Прослушивание порта '1111'...

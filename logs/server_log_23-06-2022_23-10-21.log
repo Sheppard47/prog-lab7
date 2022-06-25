@@ -1,0 +1,28 @@
+INFO  | 23-06-2022 23:10:21 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 23-06-2022 23:10:21 | utility.CollectionManager - Коллекция загружена.
+INFO  | 23-06-2022 23:10:21 | server.Server - Запуск сервера...
+INFO  | 23-06-2022 23:10:21 | server.Server - Сервер запущен.
+INFO  | 23-06-2022 23:10:21 | server.Server - Разрешение на новое соединение получено.
+INFO  | 23-06-2022 23:10:21 | server.Server - Прослушивание порта '1111'...
+INFO  | 23-06-2022 23:10:34 | server.Server - Соединение с клиентом установлено.
+INFO  | 23-06-2022 23:10:34 | server.Server - Разрешение на новое соединение получено.
+INFO  | 23-06-2022 23:10:34 | server.Server - Прослушивание порта '1111'...
+INFO  | 23-06-2022 23:10:43 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME_AND_PASSWORD.
+INFO  | 23-06-2022 23:10:43 | utility.ConnectionHandler - Запрос 'login' обработан.
+INFO  | 23-06-2022 23:11:09 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME_AND_PASSWORD.
+INFO  | 23-06-2022 23:11:09 | utility.ConnectionHandler - Запрос 'login' обработан.
+INFO  | 23-06-2022 23:11:16 | utility.DatabaseUserManager - Выполнен запрос SELECT_USER_BY_USERNAME.
+INFO  | 23-06-2022 23:11:16 | utility.DatabaseUserManager - Выполнен запрос INSERT_USER.
+INFO  | 23-06-2022 23:11:16 | utility.ConnectionHandler - Запрос 'register' обработан.
+INFO  | 23-06-2022 23:11:18 | utility.ConnectionHandler - Запрос 'show' обработан.
+ERROR | 23-06-2022 23:12:31 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 23-06-2022 23:12:31 | utility.DatabaseCollectionManager - Произошла ошибка при выполнении группы запросов на добавление нового объекта!
+INFO  | 23-06-2022 23:12:31 | utility.ConnectionHandler - Запрос 'add' обработан.
+ERROR | 23-06-2022 23:13:01 | utility.DatabaseHandler - Произошла ошибка при сохранении состояния базы данных!
+ERROR | 23-06-2022 23:13:01 | utility.DatabaseCollectionManager - Произошла ошибка при выполнении группы запросов на добавление нового объекта!
+INFO  | 23-06-2022 23:13:01 | utility.ConnectionHandler - Запрос 'add' обработан.
+INFO  | 23-06-2022 23:13:06 | utility.ConnectionHandler - Запрос 'show' обработан.
+INFO  | 23-06-2022 23:13:09 | utility.ConnectionHandler - Запрос 'help' обработан.
+WARN  | 23-06-2022 23:13:40 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 23-06-2022 23:13:40 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 23-06-2022 23:13:40 | server.Server - Разрыв соединения зарегистрирован.
